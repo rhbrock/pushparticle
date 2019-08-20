@@ -1,0 +1,22 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="502" width="502" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#000" ry="49.999994" rx="149.5" id="svg_1" cy="248.166654" cx="250.83334" stroke-width="1.5" fill="#000000"/>
+  <ellipse transform="rotate(90 250.83334350585938,248.16665649414065) " stroke="#000" ry="49.999994" rx="149.5" id="svg_5" cy="248.166654" cx="250.83334" stroke-width="1.5" fill="#000000"/>
+  <ellipse transform="rotate(45 250.83334350585943,247.3333129882812) " stroke="#000" ry="49.999994" rx="149.5" id="svg_6" cy="247.333315" cx="250.83334" stroke-width="1.5" fill="#707575"/>
+  <ellipse transform="rotate(-42 250.00000000000006,248.1666564941406) " stroke="#000" ry="49.999994" rx="149.5" id="svg_8" cy="248.166654" cx="250" stroke-width="1.5" fill="#707575"/>
+  <ellipse stroke="#000" ry="23.5" rx="49.500003" id="svg_9" cy="249.937502" cx="248.000018" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <ellipse ry="23.030354" rx="23.030354" id="svg_13" cy="249.707778" cx="247.878784" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ff0000"/>
+  <ellipse stroke="#000" ry="5.333319" rx="5.333323" id="svg_11" cy="249.043563" cx="248.106082" stroke-opacity="null" stroke-width="1.5" fill="#000000"/>
+  <ellipse id="svg_12" cy="71.437489" cx="55.500003" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="360.365437" x2="93.748792" y1="359.532097" x1="93.748792" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+ </g>
+</svg>
